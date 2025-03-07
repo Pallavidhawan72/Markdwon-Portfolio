@@ -7,5 +7,5 @@ Below are the available social account platforms:
 
 ## Let's Connect..
 
-[Homepage] (index.markdown)
-[My Projects] (projects.markdown)
+[Homepage](index.markdown)
+[My Projects](projects.markdown)
